@@ -3,6 +3,6 @@ import 'package:weather_forecast/ui/home.dart';
 
 void main() {
   runApp(new MaterialApp(
-    home: Home(),
+    home: WeatherForecast(),
   ));
 }
